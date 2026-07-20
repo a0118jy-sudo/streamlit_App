@@ -596,7 +596,7 @@ def download_font():
     font_url = (
         "https://raw.githubusercontent.com/"
         "YOUR_ID/YOUR_REPOSITORY/main/"
-        "fonts/NanumGothic.ttf"
+        "youtube/NanumGothic.ttf"
     )
 
 
